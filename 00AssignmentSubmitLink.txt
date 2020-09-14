@@ -1,0 +1,8 @@
+# vivek, some issue in old repository. so created new repository for assignment
+
+# angular
+https://github.com/Muralinaiduv/Angular2
+
+#node-js
+https://github.com/Muralinaiduv/node-js-project
+
